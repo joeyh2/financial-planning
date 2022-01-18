@@ -1,4 +1,4 @@
-# financial-planning
+# Financial Planning
 
 ## This project allows credit union members to assess their savings health and forecast retirement using two tools
 
